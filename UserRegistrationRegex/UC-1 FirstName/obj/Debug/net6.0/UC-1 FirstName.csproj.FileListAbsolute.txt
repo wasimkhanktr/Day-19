@@ -1,0 +1,15 @@
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-19\UserRegistrationRegex\UC-1 FirstName\bin\Debug\net6.0\UC-1 FirstName.exe
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-19\UserRegistrationRegex\UC-1 FirstName\bin\Debug\net6.0\UC-1 FirstName.deps.json
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-19\UserRegistrationRegex\UC-1 FirstName\bin\Debug\net6.0\UC-1 FirstName.runtimeconfig.json
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-19\UserRegistrationRegex\UC-1 FirstName\bin\Debug\net6.0\UC-1 FirstName.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-19\UserRegistrationRegex\UC-1 FirstName\bin\Debug\net6.0\UC-1 FirstName.pdb
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-19\UserRegistrationRegex\UC-1 FirstName\obj\Debug\net6.0\UC-1 FirstName.csproj.AssemblyReference.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-19\UserRegistrationRegex\UC-1 FirstName\obj\Debug\net6.0\UC-1 FirstName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-19\UserRegistrationRegex\UC-1 FirstName\obj\Debug\net6.0\UC-1 FirstName.AssemblyInfoInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-19\UserRegistrationRegex\UC-1 FirstName\obj\Debug\net6.0\UC-1 FirstName.AssemblyInfo.cs
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-19\UserRegistrationRegex\UC-1 FirstName\obj\Debug\net6.0\UC-1 FirstName.csproj.CoreCompileInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-19\UserRegistrationRegex\UC-1 FirstName\obj\Debug\net6.0\UC-1 FirstName.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-19\UserRegistrationRegex\UC-1 FirstName\obj\Debug\net6.0\refint\UC-1 FirstName.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-19\UserRegistrationRegex\UC-1 FirstName\obj\Debug\net6.0\UC-1 FirstName.pdb
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-19\UserRegistrationRegex\UC-1 FirstName\obj\Debug\net6.0\UC-1 FirstName.genruntimeconfig.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-19\UserRegistrationRegex\UC-1 FirstName\obj\Debug\net6.0\ref\UC-1 FirstName.dll

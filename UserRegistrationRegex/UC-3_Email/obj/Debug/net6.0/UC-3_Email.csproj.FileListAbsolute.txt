@@ -1,0 +1,15 @@
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-19\UserRegistrationRegex\UC-3_Email\obj\Debug\net6.0\UC-3_Email.csproj.AssemblyReference.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-19\UserRegistrationRegex\UC-3_Email\obj\Debug\net6.0\UC-3_Email.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-19\UserRegistrationRegex\UC-3_Email\obj\Debug\net6.0\UC-3_Email.AssemblyInfoInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-19\UserRegistrationRegex\UC-3_Email\obj\Debug\net6.0\UC-3_Email.AssemblyInfo.cs
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-19\UserRegistrationRegex\UC-3_Email\obj\Debug\net6.0\UC-3_Email.csproj.CoreCompileInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-19\UserRegistrationRegex\UC-3_Email\bin\Debug\net6.0\UC-3_Email.exe
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-19\UserRegistrationRegex\UC-3_Email\bin\Debug\net6.0\UC-3_Email.deps.json
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-19\UserRegistrationRegex\UC-3_Email\bin\Debug\net6.0\UC-3_Email.runtimeconfig.json
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-19\UserRegistrationRegex\UC-3_Email\bin\Debug\net6.0\UC-3_Email.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-19\UserRegistrationRegex\UC-3_Email\bin\Debug\net6.0\UC-3_Email.pdb
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-19\UserRegistrationRegex\UC-3_Email\obj\Debug\net6.0\UC-3_Email.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-19\UserRegistrationRegex\UC-3_Email\obj\Debug\net6.0\refint\UC-3_Email.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-19\UserRegistrationRegex\UC-3_Email\obj\Debug\net6.0\UC-3_Email.pdb
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-19\UserRegistrationRegex\UC-3_Email\obj\Debug\net6.0\UC-3_Email.genruntimeconfig.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-19\UserRegistrationRegex\UC-3_Email\obj\Debug\net6.0\ref\UC-3_Email.dll

@@ -1,0 +1,15 @@
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-19\UserRegistrationRegex\UC-4_MobileNo\bin\Debug\net6.0\UC-4_MobileNo.exe
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-19\UserRegistrationRegex\UC-4_MobileNo\bin\Debug\net6.0\UC-4_MobileNo.deps.json
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-19\UserRegistrationRegex\UC-4_MobileNo\bin\Debug\net6.0\UC-4_MobileNo.runtimeconfig.json
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-19\UserRegistrationRegex\UC-4_MobileNo\bin\Debug\net6.0\UC-4_MobileNo.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-19\UserRegistrationRegex\UC-4_MobileNo\bin\Debug\net6.0\UC-4_MobileNo.pdb
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-19\UserRegistrationRegex\UC-4_MobileNo\obj\Debug\net6.0\UC-4_MobileNo.csproj.AssemblyReference.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-19\UserRegistrationRegex\UC-4_MobileNo\obj\Debug\net6.0\UC-4_MobileNo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-19\UserRegistrationRegex\UC-4_MobileNo\obj\Debug\net6.0\UC-4_MobileNo.AssemblyInfoInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-19\UserRegistrationRegex\UC-4_MobileNo\obj\Debug\net6.0\UC-4_MobileNo.AssemblyInfo.cs
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-19\UserRegistrationRegex\UC-4_MobileNo\obj\Debug\net6.0\UC-4_MobileNo.csproj.CoreCompileInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-19\UserRegistrationRegex\UC-4_MobileNo\obj\Debug\net6.0\UC-4_MobileNo.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-19\UserRegistrationRegex\UC-4_MobileNo\obj\Debug\net6.0\refint\UC-4_MobileNo.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-19\UserRegistrationRegex\UC-4_MobileNo\obj\Debug\net6.0\UC-4_MobileNo.pdb
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-19\UserRegistrationRegex\UC-4_MobileNo\obj\Debug\net6.0\UC-4_MobileNo.genruntimeconfig.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-19\UserRegistrationRegex\UC-4_MobileNo\obj\Debug\net6.0\ref\UC-4_MobileNo.dll
